@@ -1,8 +1,7 @@
 ## 📝 About the Project
 
 **Chigurla_Narayana_Portfolio** is a 🌟 **Landing Page** 🌟 that aims to 🎯 **capture leads, showcase product features, and drive user engagement** 🎯. 
-**Landing Page Url** : https://narayanachigurla.github.io/
-portfolio/
+**Landing Page Url** : https://narayanachigurla.github.io/portfolio/
 ### ✨ Features
 
 - ✅ **Stunning Landing Page**: 🖼️ An eye-catching landing page designed to attract and engage users.
